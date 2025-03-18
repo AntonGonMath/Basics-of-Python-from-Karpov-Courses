@@ -1,16 +1,7 @@
-<style>
-    .custom-link {
-        color: black;
-        font-size: 20px;
-        text-decoration: none;
-    }
-</style>
-
 <a href="https://karpov.courses/pythonzero?_gl=1*1wbptwf*_ga*MzY3MzU4ODAxLjE3MzMxNjQxNzU.*_ga_DZP7KEXCQQ*MTc0MjEyOTI1OC4xNjYuMS4xNzQyMTMyMjE4LjMyLjAuMA.." 
-   class="custom-link">
+   style="color: black !important; font-size: 25px !important; text-decoration: none !important;">
    Курс «Основы Python»
-</a>
-     
+</a>     
 
 <img src="https://optim.tildacdn.com/tild6134-3435-4533-a664-623363396633/-/format/webp/Group_481805-2.png.webp" 
      alt="Описание изображения" 
